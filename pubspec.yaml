@@ -21,7 +21,7 @@ dependencies:
   file_picker: ^5.3.0
   flutter_bloc: ^8.1.2
   path: ^1.8.2
-  injector: ^2.0.0
+  injector: ^3.0.0
   collection: ^1.17.0
   process_run: ^0.13.0
 
